@@ -1,35 +1,92 @@
-<h1 align="center">Hi 👋 I'm Shalitha Lakshan</h1>
-<h3 align="center">A student studying to become a software engineer.</h3>
+<h1 align="center">Hi 👋, I'm Shalitha Lakshan</h1>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="500" width="500" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-</a>
+<h3 align="center">
+  Software Engineering Undergraduate | Full-Stack Developer
+</h3>
 
-<br>
-
-- 🔭 I’m currently working on **New Project**
-
-- 🌱 I’m currently learning **Internet & Web Technology**
-
-- 💬 Ask me about **HTML, CSS ,PHP ,JAVA**
-
-- 📫 How to reach me **shalithalakshan46@gmail.com**
-
-- ⚡ Fun fact **Call me Shali.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/shalitha lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shalitha lakshan" height="30" width="40" /></a>
-<a href="https://instagram.com/shali_lakshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shali_lakshan_" height="30" width="40" /></a>
-<a href="https://discord.gg/lakshan1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lakshan1229" height="30" width="40" /></a>
+<p align="center">
+  Turning ideas into practical applications with clean code and thoughtful design.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://shalithalakshan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shalitha-lakshan-1a86a3376">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shalithalakshan46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-## 🐍  my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/Shalitha-Lakshan/Shalitha-Lakshan/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+### 👨‍💻 About Me
+
+- 🎓 Software Engineering undergraduate at **SLIIT**.
+- 💻 I enjoy building **full-stack web applications**.
+- 🌱 Exploring **microservices, cloud technologies, and system design**.
+- 🧩 Interested in clean code, problem-solving, and user-friendly experiences.
+- 🤝 Open to learning, collaborating, and contributing to meaningful projects.
+- ⚡ You can call me **Shali**.
+
+---
+
+### 🛠️ Languages & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css" alt="JavaScript, TypeScript, Java, C++, HTML, CSS" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" alt="Node.js, Express, Spring, MongoDB, MySQL" />
+</p>
+
+**Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Git, GitHub, Docker, Postman, VS Code" />
+</p>
+
+---
+
+### 🌱 What I'm Focused On
+
+- Building useful applications with the **MERN stack**.
+- Designing clear, maintainable **REST APIs**.
+- Strengthening my understanding of **software architecture**.
+- Improving through hands-on projects and collaboration.
+
+---
+
+### 🐍 Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shalitha-Lakshan/Shalitha-Lakshan/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's connect and build something useful.</b>
+  <br /><br />
+  <a href="https://shalithalakshan.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shalitha-lakshan-1a86a3376">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:shalithalakshan46@gmail.com">Email</a>
 </p>
