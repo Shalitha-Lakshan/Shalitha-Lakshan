@@ -40,33 +40,22 @@
 
 ---
 
-### 🛠️ Languages & Tools
 
-**Languages**
+<h3>🛠️ Languages & Tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css" alt="JavaScript, TypeScript, Java, C++, HTML, CSS" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,java,cpp,html,css,react,nextjs,tailwind&amp;perline=9"
+    alt="JavaScript, TypeScript, Java, C++, HTML, CSS, React, Next.js, Tailwind CSS"
+    width="440"
+  />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,git,github,docker,postman,vscode&amp;perline=10"
+    alt="Node.js, Express, Spring, MongoDB, MySQL, Git, GitHub, Docker, Postman, VS Code"
+    width="490"
+  />
 </p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" alt="Node.js, Express, Spring, MongoDB, MySQL" />
-</p>
-
-**Development Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Git, GitHub, Docker, Postman, VS Code" />
-</p>
-
----
 
 ### 🌱 What I'm Focused On
 
