@@ -20,6 +20,13 @@
   </a>
 </p>
 
+<img
+  align="right"
+  width="350"
+  src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"
+  alt="Developer coding animation"
+/>
+
 ---
 
 ### 👨‍💻 About Me
